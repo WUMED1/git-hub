@@ -1,0 +1,24 @@
+Stworzyć projekt do realizacji tworzenia dokumentacji szkoleniowej z Git-a i Github-a
+1. utworzyć lokalne repozytorium projekt_git 
+
+2. dodać do projektu 2 pliki instalacja.txt i praca_lokalna.txt
+
+3. dodać zmiany w repozytorium projeku z komentarzem "Dodanie plików"
+
+4. dokonać zmian w pliku instalacja.txt i  zapisać zmiany z komentarzem tytuł "Zmiana pierwsza" treść komunikatu "Pierwsza zmiana w plik instrukcja.txt"
+
+5. Dodać rozgałęzienie o nazwie praca_lokalna
+
+6. usunąć z rozgałęzienia plik instrukcja.txt
+
+7. W rozgałęzieniu praca_lokalna wprowadzić zmiany w praca_lokalna.txt i dodać do repozytorium z komentarzem "zmiana druga" jako tytuł a "Pierwsza zmiana w pliku praca_lokalna.txt" jako treść komunikatu
+
+8. W master wprowadzić zmiany w pliku instrukcja.txt i zatwierdź commitem
+
+9. połączyć rozgałęzienie praca_lokalna z master
+
+
+
+
+
+
