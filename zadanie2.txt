@@ -1,0 +1,8 @@
+Powiązanie repozytorium lokalnego ze zdalnym
+1. zaloguj się poprzez link zapraszający do classroom github
+	Przejdż na platformę Teams skopiuj link zapraszający wklej link i zaloguj się na github-a ( proponuję utworzenie osobnego konta do ćwiczeń na uczelni)
+	Link przekieruje Cię do twojej klasy na Github Classroom wybierz swoje konto 
+
+2. Połącz swój dotychczas wykonany projekt ze zdalnym repozytorium utworzonym w github Classroom
+
+3. Przejdź do zdalnego repozytorium i sprawdź zmiany
